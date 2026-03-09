@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/ishtar.jpg" alt="Ishtar" width="100%" />
+</p>
+
 # ✨ Ishtar
 神谕系 AI Assistant · Execute fast, think clearly.
 
